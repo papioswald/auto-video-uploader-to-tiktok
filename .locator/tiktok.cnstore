@@ -1,0 +1,835 @@
+﻿{
+  "id": "9aeef9f0-cc30-461e-a506-c0dddba0e20a",
+  "name": "tiktok",
+  "nodes": [
+    {
+      "id": "93f25c41-8d6d-4a9f-a89e-2e40dbacee88",
+      "name": "tiktok",
+      "nodes": [],
+      "locators": []
+    }
+  ],
+  "locators": [
+    {
+      "id": "97cac59d-af06-41fc-a450-5e525a6bc38c",
+      "name": "button_select_file",
+      "filePath": "ec941abd-be3a-49cb-bfc5-57d82a136f7a.jpg",
+      "content": {
+        "automationType": "Chrome",
+        "processName": {
+          "value": "chrome"
+        },
+        "filePath": {
+          "value": "chrome.exe"
+        },
+        "version": {
+          "value": "1.3"
+        },
+        "childControls": [
+          {
+            "identifier": {
+              "role": {
+                "value": "window"
+              },
+              "title": {
+                "value": "(1)Upload | TikTok"
+              },
+              "url": {
+                "value": "https://www.tiktok.com/upload",
+                "excluded": true
+              },
+              "className": {
+                "value": "Chrome_WidgetWin_1"
+              },
+              "controlMetaType": "Tab"
+            },
+            "childControls": [
+              {
+                "identifier": {
+                  "tag": {
+                    "value": "IFRAME"
+                  },
+                  "ancestorId": {
+                    "value": "main",
+                    "excluded": true
+                  },
+                  "ancestorClass": {
+                    "value": "jsx-834240835 main-body page-with-header em-follow",
+                    "excluded": true
+                  },
+                  "isLeaf": {
+                    "value": "1",
+                    "excluded": true
+                  },
+                  "cssSelector": {
+                    "value": "body>div>div>div>div>iframe",
+                    "excluded": true
+                  },
+                  "tableRow": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "tableCol": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "src": {
+                    "value": "https://www.tiktok.com/creator#/upload"
+                  },
+                  "controlMetaType": "Web",
+                  "index": {
+                    "value": "1",
+                    "excluded": true
+                  },
+                  "style": {
+                    "isCustom": true,
+                    "value": "height: 1053px; border-style: none; width: 100%; margin-bottom: -6px;",
+                    "operator": "equals",
+                    "excluded": true
+                  }
+                },
+                "childControls": [
+                  {
+                    "identifier": {
+                      "tag": {
+                        "value": "BUTTON"
+                      },
+                      "class": {
+                        "value": "css-byn4hh",
+                        "excluded": true
+                      },
+                      "ancestorId": {
+                        "value": "root",
+                        "excluded": true
+                      },
+                      "ancestorClass": {
+                        "value": "jsx-2404389384 file-select-button",
+                        "excluded": true
+                      },
+                      "isLeaf": {
+                        "value": "0",
+                        "excluded": true
+                      },
+                      "cssSelector": {
+                        "value": "body>div>div>div>div>div>div>div>div>div>div>button",
+                        "excluded": true
+                      },
+                      "sInfo": {
+                        "value": "Select file"
+                      },
+                      "tableRow": {
+                        "value": "-1",
+                        "excluded": true
+                      },
+                      "tableCol": {
+                        "value": "-1",
+                        "excluded": true
+                      },
+                      "controlMetaType": "Web",
+                      "index": {
+                        "value": "1",
+                        "excluded": true
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "cda23d46-5913-4301-a31c-d1a4a267a999",
+      "name": "button_post",
+      "filePath": "de456980-ced7-459f-823f-48d9c89e0245.jpg",
+      "content": {
+        "automationType": "Chrome",
+        "processName": {
+          "value": "chrome"
+        },
+        "filePath": {
+          "value": "chrome.exe"
+        },
+        "version": {
+          "value": "1.3"
+        },
+        "childControls": [
+          {
+            "identifier": {
+              "role": {
+                "value": "window"
+              },
+              "title": {
+                "value": "(1)Upload | TikTok"
+              },
+              "url": {
+                "value": "https://www.tiktok.com/upload",
+                "excluded": true
+              },
+              "className": {
+                "value": "Chrome_WidgetWin_1"
+              },
+              "controlMetaType": "Tab"
+            },
+            "childControls": [
+              {
+                "identifier": {
+                  "tag": {
+                    "value": "IFRAME"
+                  },
+                  "ancestorId": {
+                    "value": "main",
+                    "excluded": true
+                  },
+                  "ancestorClass": {
+                    "value": "jsx-834240835 main-body page-with-header em-follow",
+                    "excluded": true
+                  },
+                  "isLeaf": {
+                    "value": "1",
+                    "excluded": true
+                  },
+                  "cssSelector": {
+                    "value": "body>div>div>div>div>iframe",
+                    "excluded": true
+                  },
+                  "tableRow": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "tableCol": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "src": {
+                    "value": "https://www.tiktok.com/creator#/upload"
+                  },
+                  "controlMetaType": "Web",
+                  "index": {
+                    "value": "1",
+                    "excluded": true
+                  },
+                  "style": {
+                    "isCustom": true,
+                    "value": "height: 1053px; border-style: none; width: 100%; margin-bottom: -6px;",
+                    "operator": "equals",
+                    "excluded": true
+                  }
+                },
+                "childControls": [
+                  {
+                    "identifier": {
+                      "tag": {
+                        "value": "BUTTON"
+                      },
+                      "class": {
+                        "value": "css-y1m958",
+                        "excluded": true
+                      },
+                      "ancestorId": {
+                        "value": "root",
+                        "excluded": true
+                      },
+                      "ancestorClass": {
+                        "value": "jsx-2580397738 btn-post",
+                        "excluded": true
+                      },
+                      "isLeaf": {
+                        "value": "0",
+                        "excluded": true
+                      },
+                      "cssSelector": {
+                        "value": "body>div>div>div>div>div>div>div>div>div>button",
+                        "excluded": true
+                      },
+                      "sInfo": {
+                        "value": "Post"
+                      },
+                      "tableRow": {
+                        "value": "-1",
+                        "excluded": true
+                      },
+                      "tableCol": {
+                        "value": "-1",
+                        "excluded": true
+                      },
+                      "controlMetaType": "Web",
+                      "index": {
+                        "value": "1",
+                        "excluded": true
+                      },
+                      "disabled": {
+                        "isCustom": true,
+                        "value": "disabled",
+                        "operator": "equals",
+                        "excluded": true
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "09162f95-b66c-44cd-b9e9-8bf0a5e12d33",
+      "name": "edit_name",
+      "filePath": "7d528661-4c61-46f7-800a-69af4b293a0f.jpg",
+      "content": {
+        "automationType": "Uia",
+        "processName": {
+          "value": "chrome"
+        },
+        "filePath": {
+          "value": "chrome.exe"
+        },
+        "version": {
+          "value": "1.3"
+        },
+        "childControls": [
+          {
+            "identifier": {
+              "automationId": {
+                "value": "",
+                "excluded": true
+              },
+              "isPassword": {
+                "value": "False",
+                "excluded": true
+              },
+              "orientation": {
+                "value": "None",
+                "excluded": true
+              },
+              "role": {
+                "value": "pane"
+              },
+              "isDirectChild": {
+                "value": "True"
+              },
+              "className": {
+                "value": "Chrome_WidgetWin_1"
+              },
+              "controlMetaType": "Uia",
+              "name": {
+                "value": "Upload | TikTok - Google Chrome"
+              },
+              "index": {
+                "value": "1",
+                "excluded": true
+              }
+            },
+            "childControls": [
+              {
+                "identifier": {
+                  "automationId": {
+                    "value": "",
+                    "excluded": true
+                  },
+                  "isPassword": {
+                    "value": "False",
+                    "excluded": true
+                  },
+                  "orientation": {
+                    "value": "None",
+                    "excluded": true
+                  },
+                  "role": {
+                    "value": "window"
+                  },
+                  "isDirectChild": {
+                    "value": "True"
+                  },
+                  "className": {
+                    "value": "#32770"
+                  },
+                  "controlMetaType": "Uia",
+                  "name": {
+                    "value": "Open"
+                  },
+                  "index": {
+                    "value": "1",
+                    "excluded": true
+                  }
+                },
+                "childControls": [
+                  {
+                    "identifier": {
+                      "automationId": {
+                        "value": "",
+                        "excluded": true
+                      },
+                      "isPassword": {
+                        "value": "False",
+                        "excluded": true
+                      },
+                      "orientation": {
+                        "value": "None",
+                        "excluded": true
+                      },
+                      "role": {
+                        "value": "pane"
+                      },
+                      "isDirectChild": {
+                        "value": "True"
+                      },
+                      "className": {
+                        "value": "DUIViewWndClassName"
+                      },
+                      "controlMetaType": "Uia",
+                      "name": {
+                        "value": "",
+                        "excluded": true
+                      },
+                      "index": {
+                        "value": "1",
+                        "excluded": true
+                      }
+                    },
+                    "childControls": [
+                      {
+                        "identifier": {
+                          "automationId": {
+                            "value": "listview"
+                          },
+                          "isPassword": {
+                            "value": "False",
+                            "excluded": true
+                          },
+                          "orientation": {
+                            "value": "None",
+                            "excluded": true
+                          },
+                          "role": {
+                            "value": "pane"
+                          },
+                          "isDirectChild": {
+                            "value": "True"
+                          },
+                          "className": {
+                            "value": "DUIListView"
+                          },
+                          "controlMetaType": "Uia",
+                          "name": {
+                            "value": "Shell Folder View",
+                            "excluded": true
+                          },
+                          "index": {
+                            "value": "1",
+                            "excluded": true
+                          }
+                        },
+                        "childControls": [
+                          {
+                            "identifier": {
+                              "automationId": {
+                                "value": "",
+                                "excluded": true
+                              },
+                              "isPassword": {
+                                "value": "False",
+                                "excluded": true
+                              },
+                              "itemStatus": {
+                                "value": "5 items"
+                              },
+                              "orientation": {
+                                "value": "None",
+                                "excluded": true
+                              },
+                              "role": {
+                                "value": "list"
+                              },
+                              "isDirectChild": {
+                                "value": "True"
+                              },
+                              "className": {
+                                "value": "UIItemsView"
+                              },
+                              "controlMetaType": "Uia",
+                              "name": {
+                                "value": "Items View"
+                              },
+                              "index": {
+                                "value": "1",
+                                "excluded": true
+                              }
+                            },
+                            "childControls": [
+                              {
+                                "identifier": {
+                                  "automationId": {
+                                    "value": "4"
+                                  },
+                                  "isPassword": {
+                                    "value": "False",
+                                    "excluded": true
+                                  },
+                                  "itemStatus": {
+                                    "value": "item 5 of 5"
+                                  },
+                                  "orientation": {
+                                    "value": "None",
+                                    "excluded": true
+                                  },
+                                  "role": {
+                                    "value": "listItem"
+                                  },
+                                  "isDirectChild": {
+                                    "value": "True"
+                                  },
+                                  "className": {
+                                    "value": "UIItem"
+                                  },
+                                  "controlMetaType": "Uia",
+                                  "name": {
+                                    "value": "fyp.mp4",
+                                    "excluded": true
+                                  },
+                                  "index": {
+                                    "value": "1",
+                                    "excluded": true
+                                  }
+                                },
+                                "childControls": [
+                                  {
+                                    "identifier": {
+                                      "automationId": {
+                                        "value": "System.ItemNameDisplay"
+                                      },
+                                      "isPassword": {
+                                        "value": "False",
+                                        "excluded": true
+                                      },
+                                      "orientation": {
+                                        "value": "None",
+                                        "excluded": true
+                                      },
+                                      "role": {
+                                        "value": "edit"
+                                      },
+                                      "isDirectChild": {
+                                        "value": "True"
+                                      },
+                                      "className": {
+                                        "value": "UIProperty"
+                                      },
+                                      "controlMetaType": "Uia",
+                                      "name": {
+                                        "value": "Name",
+                                        "excluded": true
+                                      },
+                                      "index": {
+                                        "value": "1",
+                                        "excluded": true
+                                      }
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "c38287f7-db32-44ba-a779-9c08bb38e136",
+      "name": "edit_file_name",
+      "filePath": "fdbaf79f-0ad9-4cf0-a112-ea836e2c090b.jpg",
+      "content": {
+        "automationType": "Uia",
+        "processName": {
+          "value": "chrome"
+        },
+        "filePath": {
+          "value": "chrome.exe"
+        },
+        "version": {
+          "value": "1.3"
+        },
+        "childControls": [
+          {
+            "identifier": {
+              "automationId": {
+                "value": "",
+                "excluded": true
+              },
+              "isPassword": {
+                "value": "False",
+                "excluded": true
+              },
+              "orientation": {
+                "value": "None",
+                "excluded": true
+              },
+              "role": {
+                "value": "pane"
+              },
+              "isDirectChild": {
+                "value": "True"
+              },
+              "className": {
+                "value": "Chrome_WidgetWin_1"
+              },
+              "controlMetaType": "Uia",
+              "name": {
+                "value": "Upload | TikTok - Google Chrome"
+              },
+              "index": {
+                "value": "1",
+                "excluded": true
+              }
+            },
+            "childControls": [
+              {
+                "identifier": {
+                  "automationId": {
+                    "value": "",
+                    "excluded": true
+                  },
+                  "isPassword": {
+                    "value": "False",
+                    "excluded": true
+                  },
+                  "orientation": {
+                    "value": "None",
+                    "excluded": true
+                  },
+                  "role": {
+                    "value": "window"
+                  },
+                  "isDirectChild": {
+                    "value": "True"
+                  },
+                  "className": {
+                    "value": "#32770"
+                  },
+                  "controlMetaType": "Uia",
+                  "name": {
+                    "value": "Open"
+                  },
+                  "index": {
+                    "value": "1",
+                    "excluded": true
+                  }
+                },
+                "childControls": [
+                  {
+                    "identifier": {
+                      "automationId": {
+                        "value": "1148"
+                      },
+                      "isPassword": {
+                        "value": "False",
+                        "excluded": true
+                      },
+                      "orientation": {
+                        "value": "None",
+                        "excluded": true
+                      },
+                      "role": {
+                        "value": "comboBox"
+                      },
+                      "accessKey": {
+                        "value": "Alt+n"
+                      },
+                      "isDirectChild": {
+                        "value": "True"
+                      },
+                      "className": {
+                        "value": "ComboBox"
+                      },
+                      "controlMetaType": "Uia",
+                      "name": {
+                        "value": "File name:",
+                        "excluded": true
+                      },
+                      "index": {
+                        "value": "1",
+                        "excluded": true
+                      }
+                    },
+                    "childControls": [
+                      {
+                        "identifier": {
+                          "automationId": {
+                            "value": "1148"
+                          },
+                          "isPassword": {
+                            "value": "False",
+                            "excluded": true
+                          },
+                          "orientation": {
+                            "value": "None",
+                            "excluded": true
+                          },
+                          "role": {
+                            "value": "edit"
+                          },
+                          "accessKey": {
+                            "value": "Alt+n"
+                          },
+                          "isDirectChild": {
+                            "value": "True"
+                          },
+                          "className": {
+                            "value": "Edit"
+                          },
+                          "controlMetaType": "Uia",
+                          "name": {
+                            "value": "File name:",
+                            "excluded": true
+                          },
+                          "index": {
+                            "value": "1",
+                            "excluded": true
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "220e05d9-ab3e-49d5-a31c-386dd213179e",
+      "name": "button_open",
+      "filePath": "bc3edca1-894c-4665-8231-e0315067552a.jpg",
+      "content": {
+        "automationType": "Uia",
+        "processName": {
+          "value": "chrome"
+        },
+        "filePath": {
+          "value": "chrome.exe"
+        },
+        "version": {
+          "value": "1.3"
+        },
+        "childControls": [
+          {
+            "identifier": {
+              "automationId": {
+                "value": "",
+                "excluded": true
+              },
+              "isPassword": {
+                "value": "False",
+                "excluded": true
+              },
+              "orientation": {
+                "value": "None",
+                "excluded": true
+              },
+              "role": {
+                "value": "pane"
+              },
+              "isDirectChild": {
+                "value": "True"
+              },
+              "className": {
+                "value": "Chrome_WidgetWin_1"
+              },
+              "controlMetaType": "Uia",
+              "name": {
+                "value": "Upload | TikTok - Google Chrome"
+              },
+              "index": {
+                "value": "1",
+                "excluded": true
+              }
+            },
+            "childControls": [
+              {
+                "identifier": {
+                  "automationId": {
+                    "value": "",
+                    "excluded": true
+                  },
+                  "isPassword": {
+                    "value": "False",
+                    "excluded": true
+                  },
+                  "orientation": {
+                    "value": "None",
+                    "excluded": true
+                  },
+                  "role": {
+                    "value": "window"
+                  },
+                  "isDirectChild": {
+                    "value": "True"
+                  },
+                  "className": {
+                    "value": "#32770"
+                  },
+                  "controlMetaType": "Uia",
+                  "name": {
+                    "value": "Open"
+                  },
+                  "index": {
+                    "value": "1",
+                    "excluded": true
+                  }
+                },
+                "childControls": [
+                  {
+                    "identifier": {
+                      "automationId": {
+                        "value": "1"
+                      },
+                      "isPassword": {
+                        "value": "False",
+                        "excluded": true
+                      },
+                      "orientation": {
+                        "value": "None",
+                        "excluded": true
+                      },
+                      "role": {
+                        "value": "button"
+                      },
+                      "accessKey": {
+                        "value": "Alt+o"
+                      },
+                      "isDirectChild": {
+                        "value": "True"
+                      },
+                      "className": {
+                        "value": "Button"
+                      },
+                      "controlMetaType": "Uia",
+                      "name": {
+                        "value": "Open",
+                        "excluded": true
+                      },
+                      "index": {
+                        "value": "1",
+                        "excluded": true
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
